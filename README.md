@@ -2,13 +2,28 @@ A complete end-to-end Business Intelligence project developed in Power BI for an
 The project covers the entire BI workflow, including data modeling, Power Query transformations, DAX calculations, interactive dashboards, forecasting, scenario analysis, and executive reporting.
 
 ## 📊 Dashboards
-* Executive Dashboard
-* Revenue Analysis
-* Cost Analysis
-* Operational Performance
-* Customer Analysis
-* Route Analysis
-* Forecast
+### 🖼 Dashboard Previews
+
+Executive Dashboard:
+![Executive Dashboard](01%20excecutive%20dashboard.JPG)
+
+Revenue Analysis:
+![Revenue Analysis](02%20revenue%20analysis.JPG)
+
+Cost Analysis:
+![Cost Analysis](03%20costs%20analysis.JPG)
+
+Operational Performance:
+![Operational Performance](04%20operational%20Performance.JPG)
+
+Customer Analysis:
+![Customer Analysis](05%20customer%20analysis.JPG)
+
+Route Analysis:
+![Route Analysis](06%20route%20analysis.JPG)
+
+Forecast:
+![Forecast](07%20Forcast.JPG)
 
 ---
 
