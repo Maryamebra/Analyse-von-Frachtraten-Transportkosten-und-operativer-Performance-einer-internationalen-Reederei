@@ -4,27 +4,13 @@ The project covers the entire BI workflow, including data modeling, Power Query 
 ## 📊 Dashboards
 ### 🖼 Dashboard Previews
 
-Executive Dashboard:
-![Executive Dashboard](01%20excecutive%20dashboard.JPG)
-
-Revenue Analysis:
-![Revenue Analysis](02%20revenue%20analysis.JPG)
-
-Cost Analysis:
-![Cost Analysis](03%20costs%20analysis.JPG)
-
-Operational Performance:
-![Operational Performance](04%20operational%20Performance.JPG)
-
-Customer Analysis:
-![Customer Analysis](05%20customer%20analysis.JPG)
-
-Route Analysis:
-![Route Analysis](06%20route%20analysis.JPG)
-
-Forecast:
-![Forecast](07%20Forcast.JPG)
-
+![Executive Dashboard](Photos/01%20excecutive%20dashboard.JPG)
+![Revenue Analysis](Photos/02%20revenue%20analysis.JPG)
+![Cost Analysis](Photos/03%20costs%20analysis.JPG)
+![Operational Performance](Photos/04%20operational%20Performance.JPG)
+![Customer Analysis](Photos/05%20customer%20analysis.JPG)
+![Route Analysis](Photos/06%20route%20analysis.JPG)
+![Forecast](Photos/07%20Forcast.JPG)
 ---
 
 ## 🧐 Business Questions Answered(view Screenshots)
