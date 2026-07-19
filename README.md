@@ -59,7 +59,7 @@ Project Files
 │
 ├── Shipping_Report.pbix
 ├── Photos
-├── Shipping_Data.xlsx
+├── Bank Data (excel files)
 ├── README.md
 └── Documentation.pdf
 
